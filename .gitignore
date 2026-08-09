@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data
+live_frame.jpg
+live_data.json
+fatigue_log.csv
+settings.json
+
+# Generated exports
+exports/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+# Python 3.10.x is recommended for this project.
+opencv-python
+mediapipe
+numpy
+customtkinter
+Pillow
+matplotlib
+reportlab
